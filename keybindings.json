@@ -45,7 +45,7 @@
     },
     {
         "key": "ctrl+n",
-        "command": "explorer.newFile"
+        "command": "extension.advancedNewFile"
     },
     {
         "key": "ctrl+r",
