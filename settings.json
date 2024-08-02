@@ -1,0 +1,119 @@
+{
+    "[css]": {
+        "editor.tabSize": 2
+    },
+    "[html]": {
+        "editor.tabSize": 2
+    },
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "[json]": {
+        "editor.tabSize": 2
+    },
+    "[python]": {
+        "editor.tabSize": 4
+    },
+    "[rust]": {
+        "editor.tabSize": 4
+    },
+    "[svelte]": {
+        "editor.tabSize": 2
+    },
+    "[xml]": {
+        "editor.tabSize": 2
+    },
+    "[yaml]": {
+        "editor.tabSize": 2
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "always",
+        "source.organizeImports": "always"
+    },
+    "editor.formatOnSave": true,
+    "editor.inlineSuggest.enabled": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "extensions.ignoreRecommendations": true,
+    "files.autoSave": "onFocusChange",
+    "files.exclude": {
+        "**/*.class": true,
+        "**/__pycache__": true,
+        "**/*.pyd": true,
+        "**/*.o": true
+    },
+    "git.confirmSync": false,
+    "git.openRepositoryInParentFolders": "never",
+    "git.replaceTagsWhenPull": true,
+    "git.suggestSmartCommit": false,
+    "html.completion.attributeDefaultValue": "singlequotes",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportShadowedImports": "none",
+        "reportUnusedImport": "warning",
+        "reportUnusedVariable": "warning"
+    },
+    "python.analysis.packageIndexDepths": [
+        {
+            "name": "collections",
+            "depth": 2
+        }
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "remote.autoForwardPortsSource": "hybrid",
+    "svelte.ask-to-enable-ts-plugin": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "vscord.app.name": "Visual Studio Code",
+    "vscord.status.buttons": {
+        "button1": {
+            "active": {
+                "label": "Check Out My GitHub",
+                "url": "https://github.com/corentin-regent",
+                "enabled": true
+            },
+            "idle": {
+                "label": "Check Out My GitHub",
+                "url": "https://github.com/corentin-regent",
+                "enabled": true
+            },
+            "inactive": {
+                "label": "Check Out My GitHub",
+                "url": "https://github.com/corentin-regent",
+                "enabled": true
+            },
+            "git": {
+                "idle": {
+                    "label": "Check Out My GitHub",
+                    "url": "https://github.com/corentin-regent",
+                    "enabled": true
+                },
+                "active": {
+                    "label": "Check Out My GitHub",
+                    "url": "https://github.com/corentin-regent",
+                    "enabled": true
+                },
+                "inactive": {
+                    "label": "Check Out My GitHub",
+                    "url": "https://github.com/corentin-regent",
+                    "enabled": true
+                }
+            }
+        }
+    },
+    "vscord.status.details.enabled": false,
+    "vscord.status.details.idle.enabled": false,
+    "vscord.status.idle.enabled": false,
+    "vscord.status.idle.check": false,
+    "vscord.status.image.large.debugging.text": "Debugging a {Lang} file",
+    "vscord.status.image.large.editing.text": "Editing a {Lang} file",
+    "vscord.status.image.large.viewing.text": "Viewing a {Lang} file",
+    "vscord.status.problems.enabled": false,
+    "vscord.status.showElapsedTime": false,
+    "vscord.status.state.enabled": false,
+    "vscord.status.state.idle.enabled": false,
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.startupEditor": "none",
+}
